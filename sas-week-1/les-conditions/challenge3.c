@@ -23,7 +23,7 @@ int main ()
    }
    else
    {
-            printf("V1 = V2",v1,v2 );
+            printf("v1 = %d \nv2 = %d",v1,v2 );
 
    }
 	return 0;
